@@ -20,5 +20,5 @@
 [instagram]: https://www.instagram.com/goktug.gumus/
 [linkedin]: https://www.linkedin.com/in/goktug6umus/
 [medium]: https://demiribrahimtalha.medium.com/
-[gmail]: goktugg.gumuss@gmail.com
+[gmail]: mailto:goktugg.gumuss@gmail.com
 <br />
