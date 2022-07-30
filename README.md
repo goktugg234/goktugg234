@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="320" />
 
 ## I'm a Student 👨‍🎓, Game Developer 🕹️, Game Artist 🎨.
 - 🔭 I’m currently working on Unity and Unreal Engine 5.
