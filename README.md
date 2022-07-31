@@ -31,6 +31,7 @@
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)][instagram]
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)][github]
+[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)][medium]
 
 
 <br />
@@ -38,7 +39,7 @@
 
 [instagram]: https://www.instagram.com/goktug.gumus/
 [linkedin]: https://www.linkedin.com/in/goktug6umus/
-[medium]: https://demiribrahimtalha.medium.com/
+[medium]: https://medium.com/@goktugg.gumuss
 [gmail]: mailto:goktugg.gumuss@gmail.com
 [github]: https://github.com/goktugg234
 <br />
