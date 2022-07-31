@@ -33,9 +33,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)][github]
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)][medium]
 
-
 <br />
-
 
 [instagram]: https://www.instagram.com/goktug.gumus/
 [linkedin]: https://www.linkedin.com/in/goktug6umus/
@@ -43,6 +41,5 @@
 [gmail]: mailto:goktugg.gumuss@gmail.com
 [github]: https://github.com/goktugg234
 <br />
-
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=goktugg234&show_icons=true&theme=radical)
