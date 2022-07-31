@@ -30,7 +30,7 @@
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)][instagram]
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](github)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)][github]
 
 
 <br />
@@ -40,7 +40,7 @@
 [linkedin]: https://www.linkedin.com/in/goktug6umus/
 [medium]: https://demiribrahimtalha.medium.com/
 [gmail]: mailto:goktugg.gumuss@gmail.com
-[github]: https://github.com/goktugg234/
+[github]: https://github.com/goktugg234
 <br />
 
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=goktugg234&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
