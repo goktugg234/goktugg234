@@ -15,8 +15,6 @@
 [<img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/unity/unity.png" />][unity]
 
 
-<br />
-
 [vsCode]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
 [github]: https://github.com/goktugg234
