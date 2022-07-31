@@ -40,7 +40,7 @@
 [linkedin]: https://www.linkedin.com/in/goktug6umus/
 [medium]: https://demiribrahimtalha.medium.com/
 [gmail]: mailto:goktugg.gumuss@gmail.com
-[github]: 
+[github]: https://github.com/goktugg234/
 <br />
 
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=goktugg234&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
