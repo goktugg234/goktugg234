@@ -38,6 +38,6 @@
 [medium]: https://medium.com/@goktugg.gumuss
 [gmail]: mailto:goktugg.gumuss@gmail.com
 [github]: https://github.com/goktugg234
-<br />
+
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=goktugg234&show_icons=true&theme=radical)
