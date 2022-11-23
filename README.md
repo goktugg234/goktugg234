@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Unity and Unreal Engine 5.
 - 🌱 I’m currently learning 😂.
 - 🤔 I’m looking for help with Game Developer. 
-- 🥅 2022 Goals: Developing an maobile game to be heard in the world 🌎 and learning game design 🪅.
+- 🥅 2022 Goals: Developing an mobile game to be heard in the world 🌎 and learning game design 🪅.
 - ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play basketball 🏀 and cycling 🚴‍♀️.
 
 ### 🔧 Languages and Tools:
