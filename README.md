@@ -1,10 +1,10 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="320" />
 
-## I'm a Student 👨‍🎓, Game Developer 🕹️, Game Artist 🎨.
+## I'm a Student 👨‍🎓, Game Developer 🕹️, Game Designer 🎨.
 - 🔭 I’m currently working on Unity and Unreal Engine 5.
 - 🌱 I’m currently learning 😂.
 - 🤔 I’m looking for help with Game Developer. 
-- 🥅 2022 Goals: Developing an mobile game to be heard in the world 🌎 and learning game design 🪅.
+- 🥅 2023 Goals: Developing an mobile game to be heard in the world 🌎 and learning game design 🪅.
 - ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play basketball 🏀 and cycling 🚴‍♀️.
 
 ### 🔧 Languages and Tools:
