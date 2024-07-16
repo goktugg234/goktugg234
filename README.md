@@ -1,10 +1,10 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="320" />
 
-## Game Developer 🕹️, Game Designer 🎨.
-- 🔭 I’m currently working on Unity and Unreal Engine 5.
-- 🌱 I’m currently learning 😂.
-- 🤔 I’m looking for help with Game Developer. 
-- 🥅 2024 Goals: Developing a game to be heard in the world 🌎 and learning game design 🪅.
+## Software Developer.
+- 🔭 I’m currently working as a Software Developer.
+- 🌱 I’m currently learning machine learning.
+- 🤔 I’m looking for help with Software Developers. 
+- 🥅 2025 Goals: Developing a artifical intelligence model and learning deep learning.
 - ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play basketball 🏀 and cycling 🚴‍♀️.
 
 ### 🔧 Languages and Tools:
@@ -12,13 +12,12 @@
 [<img align="left" alt="Visual Studio Code" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
 [<img align="left" alt="Git" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" width="33px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="Unity" width="33px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/unity/unity.png" />][unity]
 
 
 [vsCode]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
 [github]: https://github.com/goktugg234
-[unity]: https://www.unity.com/
+
 
 <br/>
 <br/>
