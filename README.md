@@ -34,7 +34,7 @@
 <br />
 
 [instagram]: https://www.instagram.com/goktug.gumus/
-[linkedin]: https://www.linkedin.com/in/goktug6umus/
+[linkedin]: https://www.linkedin.com/in/goktuggumuss/
 [medium]: https://medium.com/@goktugg.gumuss
 [gmail]: mailto:goktugg.gumuss@gmail.com
 [github]: https://github.com/goktugg234
