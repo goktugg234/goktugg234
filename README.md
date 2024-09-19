@@ -16,7 +16,7 @@
 
 [vsCode]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
-[github]: https://github.com/goktugg234
+[github]: https://github.com/GoktuGumus
 
 
 <br/>
@@ -36,7 +36,7 @@
 [linkedin]: https://www.linkedin.com/in/goktuggumuss/
 [medium]: https://medium.com/@goktugg.gumuss
 [gmail]: mailto:goktugg.gumuss@gmail.com
-[github]: https://github.com/goktugg234
+[github]: https://github.com/GoktuGumus
 
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=goktugg234&show_icons=true&theme=radical)
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=GoktuGumus&show_icons=true&theme=radical)
