@@ -32,6 +32,13 @@ adaptive testing engine. Reaches the accuracy of a 45-item fixed exam in 27
 items, and states the information bound that makes anything shorter impossible.
 No dependencies.
 
+**[adaptive-huffman-delta](https://github.com/GoktuGumus/adaptive-huffman-delta)**
+— lossless compression for 16-bit sensor streams on microcontrollers. Delta
+coding in front of adaptive Huffman, header-only C++17 with no heap, no
+recursion and caller-owned buffers. 73% saved on slow sensor signals, and a
+worst case on incompressible input bounded at 2% growth rather than left to
+chance.
+
 **[autonomous-vtol-uav](https://github.com/GoktuGumus/autonomous-vtol-uav)** —
 onboard detection, tracking and follow control for a VTOL UAV. First place at the
 16th R&D Project Market.
