@@ -24,7 +24,7 @@ questions it must **refuse**.
 — detect, track and count vehicles, with the frame budget measured stage by
 stage. Benchmarked on an RTX 5090: at batch 1 the pipeline is bound by fixed
 per-call overhead rather than by the model, and batching 16 frames is worth
-2.6–5.6×. The counting logic is verified against scenes whose answer is known
+1.6–5.7×. The counting logic is verified against scenes whose answer is known
 before the pipeline runs.
 
 **[cat-irt-engine](https://github.com/GoktuGumus/cat-irt-engine)** — a Rasch
