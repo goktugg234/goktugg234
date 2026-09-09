@@ -27,6 +27,13 @@ per-call overhead rather than by the model, and batching 16 frames is worth
 1.6–5.7×. The counting logic is verified against scenes whose answer is known
 before the pipeline runs.
 
+**[night-vehicle-detection](https://github.com/GoktuGumus/night-vehicle-detection)**
+— a controlled ablation asking whether darkened daytime images can stand in for
+real night data. They cannot: manufacturing night bought nothing (−1.3%, inside
+noise) while real night frames bought 28.6% at night, almost all of it recall.
+Weights on the Hub as
+[G2mus/night-vehicle-yolov8s](https://huggingface.co/G2mus/night-vehicle-yolov8s).
+
 **[cat-irt-engine](https://github.com/GoktuGumus/cat-irt-engine)** — a Rasch
 adaptive testing engine. Reaches the accuracy of a 45-item fixed exam in 27
 items, and states the information bound that makes anything shorter impossible.
