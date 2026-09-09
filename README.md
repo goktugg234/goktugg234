@@ -1,42 +1,51 @@
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="320" />
+## Göktuğ Gümüş
 
-## Software Developer.
-- 🔭 I’m currently working as a Software Developer.
-- 🌱 I’m currently learning machine learning.
-- 🤔 I’m looking for help with Software Developers. 
-- 🥅 2025 Goals: Developing a artifical intelligence model and learning deep learning.
-- ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play basketball 🏀 and cycling 🚴‍♀️.
+**AI & Computer Vision engineer.** I train deep-learning vision models and put
+them into production on edge hardware — currently vehicle detection, traffic
+scene analysis and licence plate recognition inside an intelligent transportation
+platform, plus the LLM assistant that lets operators ask it questions in plain
+language.
 
-### 🔧 Languages and Tools:
+Ankara, Turkey · [LinkedIn](https://www.linkedin.com/in/goktuggumuss/) ·
+[goktugg.gumuss@gmail.com](mailto:goktugg.gumuss@gmail.com)
 
-[<img align="left" alt="Visual Studio Code" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
-[<img align="left" alt="Git" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="GitHub" width="33px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+---
 
+### What I build
 
-[vsCode]: https://code.visualstudio.com/
-[git]: https://git-scm.com/
-[github]: https://github.com/GoktuGumus
+**[llm-traffic-assistant](https://github.com/GoktuGumus/llm-traffic-assistant)**
+— a self-hosted RAG and tool-calling service. Ten JSON-schema tools whose schemas
+are generated from their function signatures, multi-turn sessions, SSE streaming,
+and a grounding checker that traces every number in an answer back to a tool
+result before returning it. Scored by a held-out evaluation set that includes
+questions it must **refuse**.
 
+**[traffic-vision-pipeline](https://github.com/GoktuGumus/traffic-vision-pipeline)**
+— detect, track and count vehicles, with the frame budget measured stage by
+stage. Benchmarked on an RTX 5090: at batch 1 the pipeline is bound by fixed
+per-call overhead rather than by the model, and batching 16 frames is worth
+2.6–5.6×. The counting logic is verified against scenes whose answer is known
+before the pipeline runs.
 
-<br/>
-<br/>
+**[cat-irt-engine](https://github.com/GoktuGumus/cat-irt-engine)** — a Rasch
+adaptive testing engine. Reaches the accuracy of a 45-item fixed exam in 27
+items, and states the information bound that makes anything shorter impossible.
+No dependencies.
 
-### 📩 Connect with me:
+**[autonomous-vtol-uav](https://github.com/GoktuGumus/autonomous-vtol-uav)** —
+onboard detection, tracking and follow control for a VTOL UAV. First place at the
+16th R&D Project Market.
 
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.25.0/icons/linkedin.svg" />][linkedin]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)][instagram]
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)][github]
-[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)][medium]
+---
 
-<br />
+### Tools
 
-[instagram]: https://www.instagram.com/goktug.gumus/
-[linkedin]: https://www.linkedin.com/in/goktuggumuss/
-[medium]: https://medium.com/@goktugg.gumuss
-[gmail]: mailto:goktugg.gumuss@gmail.com
-[github]: https://github.com/GoktuGumus
+`Python` `C#` `C++` · `PyTorch` `TensorFlow` `YOLOv8` `Detectron2` `OpenCV` ·
+`llama.cpp` `Qdrant` `RAG` `function calling` · `FastAPI` `Flask` `.NET` ·
+`Jetson` `STM32` `ROS` `PX4` · `PostgreSQL` `Docker` `Git`
 
+---
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=GoktuGumus&show_icons=true&theme=radical)
+<sub>Every repository above documents what it measured, and what it did not. If a
+number appears in a README here, there is a script in the same repository that
+reproduces it.</sub>
