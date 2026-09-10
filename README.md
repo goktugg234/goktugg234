@@ -26,7 +26,10 @@ expected? Shown `KAVBAK`, a guesser returns `KAVŞAK`: a well-formed, confident,
 invisible label error. 36,000 readings in Turkish say prior-pull scales with the
 model — primed with its domain, the 7B model rewrites **clean, undegraded** words
 4.5% of the time, and scores 0.1% on licence plates because it returns the letter
-block and drops the digits. The CTC baseline never repaired once.
+block and drops the digits. The CTC baseline never repaired once. Readings on
+[Kaggle](https://www.kaggle.com/datasets/gktugm/ocr-reads-or-guesses), with a
+[notebook](https://www.kaggle.com/code/gktugm/reads-or-guesses-ocr-prior-pull)
+that rebuilds every table from them.
 
 **[traffic-vision-pipeline](https://github.com/GoktuGumus/traffic-vision-pipeline)**
 — detect, track and count vehicles, with the frame budget measured stage by
