@@ -20,6 +20,14 @@ and a grounding checker that traces every number in an answer back to a tool
 result before returning it. Scored by a held-out evaluation set that includes
 questions it must **refuse**.
 
+**[ocr-reads-or-guesses](https://github.com/GoktuGumus/ocr-reads-or-guesses)** —
+does a vision-language model read the pixels, or rewrite them into what it
+expected? Shown `KAVBAK`, a guesser returns `KAVŞAK`: a well-formed, confident,
+invisible label error. 36,000 readings in Turkish say prior-pull scales with the
+model — primed with its domain, the 7B model rewrites **clean, undegraded** words
+4.5% of the time, and scores 0.1% on licence plates because it returns the letter
+block and drops the digits. The CTC baseline never repaired once.
+
 **[traffic-vision-pipeline](https://github.com/GoktuGumus/traffic-vision-pipeline)**
 — detect, track and count vehicles, with the frame budget measured stage by
 stage. Benchmarked on an RTX 5090: at batch 1 the pipeline is bound by fixed
